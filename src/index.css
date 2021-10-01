@@ -1,0 +1,44 @@
+.signin{
+    height: 100vh;
+    background-color: #F1F5F9;
+   
+}
+.signin .main{
+    margin-top: 20vh;
+    
+}
+.signin .main .card{
+    padding: 20px 10px;
+
+}
+.signin .main form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.signin .main input{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid rgb(226, 226, 226);
+}
+.signin .main .card button{
+    background-color: #8C98FA;
+    padding: 5px 15px;
+    color: black;
+    
+}
+.storebtn{
+    background-color: #8C98FA;
+    padding: 8px 25px;
+    color: black;
+    border-radius: 5px;
+}
+ .modal-body input{
+    width: 100%;
+    margin-bottom: 10px;
+    border: 1px solid rgb(226, 226, 226);
+}
+a{
+    text-decoration: none;
+}
